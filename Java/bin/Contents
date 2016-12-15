@@ -1,0 +1,53 @@
+creating method with void - VoidMethod.java
+creating method with void and parameter- VoidMethod.java
+creating variable:  MethodWithReturn.java
+create variables inside method - MethodWithReturn.java
+creating method with return data type, we can return int/string/double/float/date etc: MethodWithReturn.java
+creating method with return data type and parameter: MethodWithReturn.java
+creating static property: StaticProperty.java
+creating static method: StaticMethod.java
+creating object: MethodWithReturn.java and VoidMethod.java
+calling method with void: VoidMethod.java
+calling method with no return and parameter: MethodWithReturn.java
+calling method with return and no parameter: MethodWithReturn.java
+calling method with return and parameter: MethodWithReturn.java
+calling method with return and storing the return data: MethodWithReturn.java
+calling static method: StaticMethod.java
+create classes under multiple packages:  created multiple packages(package1 and package2)
+calling classes under different packages: ImportingFromOtherPackage.java from package 2
+write code to handle exceptions with try/catch/finally TryCatch.java from package 2
+what is final keyword: usingFinal.java from package 2
+write code for interface and create class to implement that interface: interface package
+write code for creating abstract class:  creatingAbstract package
+implement method overloading: usingstd.java from overridingOverloading package
+implement method overriding overridingOverloading package
+implementing polymorphism: overridingOverloading package
+implementing interface: interface package overridingOverloading
+How to do inheritance in java (using extend keyword): usingStd.java from overridingOverloading package
+write code to add items to integer, string array: array package
+write code to retrieve items from integer, string array: array package
+write code to add items to ArrayList collection: arrayListCollection.java from arrays package.
+write code to retrieve items from arraylist (using for each loop): arrayListCollection.java from arrays package.
+write code to add items HashMap: usingHashmap.java from arrays package
+write code to retrieve items HashMap: usingHashmap.java from arrays package
+Write code to add items to hashset: UsingHashSet.java from arrays package
+Write code to retrieve items to hasset: UsingHashSet.java from arrays package
+write code to connect to JDBC to get rows from employee table:EmployeeSQL from usingJDBC package
+Write method to return list of rows code to loop through: EmployeeSQL from usingJDBC package
+create Employee class: employee project
+Add employee class to list collection: employee project
+create method that return list of employee collection: employee project
+Difference between string, string buffer, string builder with example: Strings package
+
+
+
+additional:
+Global variables: AddingValuesToArrays from arrays package;
+scope of the variable: AddingValuesToArrays from arrays package;
+getting values from the console: AddingValuesToArrays from arrays package;
+for loop:AddingValuesToArrays from arrays package;
+Linkedlist : arrayList
+foreach loop: arrayListCollection.java in array package
+
+
+
