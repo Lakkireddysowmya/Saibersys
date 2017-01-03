@@ -22,10 +22,18 @@ public static void main(String[] args){
 		driver.switchTo().window(window);
 		driver.findElement(By.xpath(".//*[@id='demon_content']/div[2]/input")).click();
 	}
+	driver.findElement(By.xpath(".//*[@id='loginFormId']/div[1]/div[4]/div/ul/li[4]/a")).click();
+	Set<String> popup = driver.getWindowHandles();
+	for(String window: popup) //foreach loop
+	{
+		driver.switchTo().window(window);
+		System.out.println(driver.getTitle());
+	}
+	
 	//switching back to main window
 	driver.switchTo().window(mainWindow);
 	driver.findElement(By.id("usernameId")).sendKeys("Lavanya");
-	driver.close();
+	driver.quit();
 }
 	
 }
